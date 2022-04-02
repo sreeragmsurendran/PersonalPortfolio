@@ -8,7 +8,6 @@ import {motion } from "framer-motion"
 import { useScroll } from "./useScroll"
 import { navAnimations } from "animation"
 import {AiOutlineAntDesign} from "react-icons/ai"
-import { useState } from "react"
 
 
 
